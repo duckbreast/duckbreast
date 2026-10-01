@@ -26,4 +26,4 @@ I work as a penetration tester and red teamer, testing web and network environme
 
 #### Disclosures
 
-![CVE-2026-35608](https://img.shields.io/badge/CVE--2026--35608-High_Severity-red?style=for-the-badge&logo=github)
+![CVE-2026-35608](https://img.shields.io/badge/CVE--2026--35608-Medium_Severity-orange?style=for-the-badge&logo=github)
